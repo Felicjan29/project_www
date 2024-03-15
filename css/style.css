@@ -97,7 +97,7 @@ header p {
   transition: 0.5s;
 }
 .content a:hover {
-  background-color: rgba(38, 89, 2, 0.662745098);
+  background-color: rgba(38, 89, 2, 0.7215686275);
   transform: translateY(-10px);
 }
 .content a span {
